@@ -1,0 +1,31 @@
+.main__container {
+  background-image: url('../img/main-bg.png');
+}
+
+.list-title {
+  margin: 0;
+  margin-bottom: 22px;
+  font-size: 36px;
+  color: white;
+}
+
+.episode__item {
+  margin-bottom: 18px;
+  display: flex;
+  align-items: center;
+}
+
+.episode__link {
+  margin-right: 12px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+}
+
+.episode__date-release {
+  color: #d8d2d2;
+}
+
+
+

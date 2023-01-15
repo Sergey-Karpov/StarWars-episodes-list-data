@@ -1,0 +1,29 @@
+.main__container {
+  background-image: url('../img/main-bg.png');
+}
+
+.episode__title {
+  color: white;
+}
+
+.episode__descr {
+  color: white;
+}
+
+.episode__ditails {
+  display: flex;
+  gap: 40px;
+}
+
+.episode__list-title,
+.episode__list-item {
+  color: white;
+}
+
+.episode__btn {
+  position: absolute;
+  bottom: 35px;
+  left: 35px;
+
+}
+
