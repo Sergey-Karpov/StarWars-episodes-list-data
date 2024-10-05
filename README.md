@@ -2,8 +2,8 @@
 # Описание
 Это приложение со всеми полными эпизодами саги "Звездные войны". На главной странице вы можете увидеть список всех эпизодов, и вы можете получить более подробную информацию, нажав на ссылку эпизода. Там вы можете найти описание эпизода, планеты эпизода, виды, персонажей, транспортные средства и т.д. Эти данные загружаются из открытого API https://swapi.dev / Приложение использует только один html-файл, при переходе на страницу с подробностями эпизода и обратно javascript отображает страницу с новыми данными
 # Как запустить проект
-Вы можете найти его по ссылке <a href="https://sergey-karpov.github.io/StarWars-episodes-list-data/" target="_blank">открыть проект</a>
-Вы можете клонировать все содержимое репозитория git clone <this repo> или загрузить ZIP-архив репозитория.
+Вы можете найти его по ссылке <a href="https://sergey-karpov.github.io/StarWars-episodes-list-data/" target="_blank">открыть проект</a><br>
+Или Вы можете клонировать все содержимое репозитория git clone <this repo> или загрузить ZIP-архив репозитория.
 ___
 ![load](https://github.com/Sergey-Karpov/StarWars-episodes-list-data/blob/main/screens/load.png)
 ![epsod-list](https://github.com/Sergey-Karpov/StarWars-episodes-list-data/blob/main/screens/episodes-list.png)
